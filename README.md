@@ -53,10 +53,6 @@ npm start
 2. Reorder tasks by clicking the "Move Up" or "Move Down" buttons next to each task.
 3. Remove a task by clicking the "Delete" button next to the task.
 
-## Contributing 🤝
-
-If you'd like to contribute to this project, feel free to submit a pull request or open an issue. Your contributions are always welcome!
-
 ## License 📄
 
 This project is licensed under the [MIT License](LICENSE).
